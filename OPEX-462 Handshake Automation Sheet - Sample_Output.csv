@@ -1,0 +1,12 @@
+Instructions,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Current Spreadsheet,https://docs.google.com/spreadsheets/d/1FLmsTzi4CGXPPV7FCT7GFaQm1DobCu6ArrgioqIYFOs/edit#gid=0,,,,,
+Google Colab Code,https://colab.research.google.com/drive/1BcwVm0hbeJZGmVdwvuvM7MFHycAw8FLk?usp=sharing,,,,,
+Expected columns in the sheet,First Name,Last Name,Active Status,Degree,Education,Skills
+,,,,,,
+STEPS TO FOLLOW,,,,,,
+Open Colab using the link,https://colab.research.google.com/drive/1BcwVm0hbeJZGmVdwvuvM7MFHycAw8FLk?usp=sharing,,,,,
+"Go to runtime, and click Run All",,,,,,
+"Once processed, student data will be on the sheet",,,,,,
