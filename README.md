@@ -3,6 +3,8 @@ JerseySTEM Webscrapping project using Selenium
 
 ## Data Extraction and Google Sheets Integration
 
+![](DATA/images/hand-3044387_1280.jpg)
+
 ### Overview
 
 This Python script is designed to perform data extraction from a web source, process the data, and then upload it to a Google Sheets document. The process includes authentication, data extraction, and Google Sheets integration.
